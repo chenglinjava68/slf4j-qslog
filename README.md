@@ -14,3 +14,5 @@
  qslog.warn=false;
  qslog.error=false;'
 
+ *这本来是个工作中需要把日志集中记录到一个地方，便于分析统计的一个小功能*
+
